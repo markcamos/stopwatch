@@ -24,7 +24,7 @@
                                     <constraint firstAttribute="height" constant="44" id="awc-Zv-Y4e"/>
                                 </constraints>
                                 <items>
-                                    <navigationItem title="Stopwatch Application" id="8BI-hl-jVS">
+                                    <navigationItem title="Stopwatch App" id="8BI-hl-jVS">
                                         <barButtonItem key="rightBarButtonItem" systemItem="play" id="4Js-r7-ZQa">
                                             <connections>
                                                 <action selector="play:" destination="BYZ-38-t0r" id="F6g-nN-sXi"/>
@@ -59,7 +59,7 @@
                                     <constraint firstAttribute="height" constant="131" id="F9F-Pn-LaK"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Courier" family="Courier" pointSize="24"/>
-                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
